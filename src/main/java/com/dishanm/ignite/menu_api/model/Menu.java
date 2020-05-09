@@ -1,5 +1,6 @@
 package com.dishanm.ignite.menu_api.model;
 
+import dishanm.ignite.beans.Item;
 import lombok.Getter;
 import lombok.Setter;
 

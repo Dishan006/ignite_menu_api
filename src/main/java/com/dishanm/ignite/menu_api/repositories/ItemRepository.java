@@ -1,7 +1,7 @@
 package com.dishanm.ignite.menu_api.repositories;
 
 
-import com.dishanm.ignite.menu_api.model.Item;
+import dishanm.ignite.beans.Item;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

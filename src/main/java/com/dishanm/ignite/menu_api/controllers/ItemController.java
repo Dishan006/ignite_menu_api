@@ -1,8 +1,8 @@
 package com.dishanm.ignite.menu_api.controllers;
 
 import com.dishanm.ignite.menu_api.Exceptions.ResourceNotFoundException;
-import com.dishanm.ignite.menu_api.model.Item;
 import com.dishanm.ignite.menu_api.services.ItemService;
+import dishanm.ignite.beans.Item;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

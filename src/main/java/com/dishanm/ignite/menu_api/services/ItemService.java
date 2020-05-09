@@ -2,8 +2,8 @@ package com.dishanm.ignite.menu_api.services;
 
 
 import com.dishanm.ignite.menu_api.Exceptions.ResourceNotFoundException;
-import com.dishanm.ignite.menu_api.model.Item;
 import com.dishanm.ignite.menu_api.repositories.ItemRepository;
+import dishanm.ignite.beans.Item;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
